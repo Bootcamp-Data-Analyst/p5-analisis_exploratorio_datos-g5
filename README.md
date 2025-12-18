@@ -1,6 +1,6 @@
 # 🐾 Veterinary Clinical Dataset — Exploratory Data Analysis (EDA)
 
-![Logo de Mariana Rocío L. Analytics](Logo_de_Mariana_Rocío_L._Analytics)
+![Logo de Mariana Rocío L. Analytics](logo.webp)
 
 ![Python 3.11](https://img.shields.io/badge/Python-3.11-blue)
 ![pandas 1.6.2](https://img.shields.io/badge/pandas-1.6.2-green)
