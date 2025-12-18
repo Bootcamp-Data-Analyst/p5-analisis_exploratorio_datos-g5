@@ -61,9 +61,8 @@ El análisis se realizó sobre el dataset original, sin generar un archivo final
 
 ## 📐 Nota metodológica y enfoque estadístico
 
-El proyecto utiliza un enfoque descriptivo y exploratorio, basado en estadísticos descriptivos (media, mediana, desviación estándar), comparaciones entre grupos categóricos y visualización de distribuciones y relaciones entre variables.
-
-*No se aplicaron modelos predictivos ni inferenciales*
+El proyecto utiliza un enfoque descriptivo y exploratorio, basado en estadísticos descriptivos (media, mediana, desviación estándar), comparaciones entre grupos categóricos y visualización de distribuciones y relaciones entre variables y prueva hipótesis.
+ 
 
 ## ▶️ Cómo ejecutar el proyecto
 
@@ -82,8 +81,9 @@ El proyecto utiliza un enfoque descriptivo y exploratorio, basado en estadístic
 
 ## 🔍 Conclusiones basadas en los datos
 
-- Existen diferencias claras de peso y edad entre perros y gatos, visibles en las distribuciones
-- El peso promedio varía significativamente entre razas, especialmente en perros
-- Algunos síntomas e historiales médicos se concentran en rangos específicos de edad
-- Los boxplots permiten identificar variabilidad y valores atípicos relevantes en edad y peso según condiciones clínicas
-- Las visualizaciones facilitan la comparación entre especies y categorías médicas sin necesidad de modelos complejos
+- Existen diferencias claras de peso y edad entre perros y gatos, visibles en las distribuciones.
+- El peso promedio varía significativamente entre razas, especialmente en perros.
+- Algunos síntomas e historiales médicos se concentran en rangos específicos de edad segun la especie.
+- Los boxplots permiten identificar variabilidad y valores atípicos relevantes en edad y peso según condiciones clínicas.
+- Las visualizaciones facilitan la comparación entre especies y categorías médicas sin necesidad de modelos complejos.
+- No se ha encontrado relación lineal entre la edad y el peso. 
